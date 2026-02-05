@@ -40,6 +40,7 @@
 		"@fontsource/public-sans": "^5.0.18",
 		"@fontsource/space-grotesk": "^5.0.18",
 		"@fontsource/space-mono": "^5.0.20",
+		"@sveltejs/adapter-netlify": "^5.2.4",
 		"@types/topojson-client": "^3.1.4",
 		"clsx": "^2.1.1",
 		"d3-array": "^3.2.4",
