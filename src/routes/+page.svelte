@@ -135,7 +135,7 @@
 
 <h2 id="community-map" class="text-2xl mt-10 font-semibold pt-4 pb-4 mx-auto max-w-[600px]  ">
   <div class="ml-2 mr-2 sm:ml-0 sm:mr-0">
-  Attending Over ~3,000 Events Across Queens, the Community Partnerships Division Is Deeply Engaged in the Community </div>
+  Attending Over ~4,000 Events Across Queens, the Community Partnerships Division Is Deeply Engaged in the Community </div>
 </h2>
 <div class="mx-auto max-w-[600px]  flex-row align-items-center gap-2 sm:flex hidden">
   <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
@@ -158,7 +158,7 @@
   
 
   <TextBlock>
-    Over the past four years, staff in the Office participated in over 3,000 public events - from community presentations on domestic violence at St. Mary & St. Antonios Coptic Orthodox Church in Ridgewood, to community board meetings and precinct council meetings across the borough, to community-based celebrations of Lunar New Year, Black History Month, Hispanic Heritage, Women’s History, Asian American Pacific Islander Heritage, Jewish American Heritage and more.
+    Over the past four years, staff in the Office participated in over 4,000 public events - from community presentations on domestic violence at St. Mary & St. Antonios Coptic Orthodox Church in Ridgewood, to community board meetings and precinct council meetings across the borough, to community-based celebrations of Lunar New Year, Black History Month, Hispanic Heritage, Women’s History, Asian American Pacific Islander Heritage, Jewish American Heritage and more.
   </TextBlock>
 
 
@@ -184,15 +184,13 @@
       The calendar shows daily events attended by the Queens County DA's Office Community Partnerships Division.  It details the time commitment the Office invests in being accessible to the community.
     </div>
     </div>
-    <ScrollArea
-    class=" whitespace-nowrap sm:rounded-md  sm:mx-auto sm:ml-0 ml-4 mr-4"
-    orientation="horizontal"
-  >
-  <div class="flex justify-center">
-    <img src={calendarimage}>
   </div>
-    </ScrollArea >
+
+<TextBlock>
+  <div style="max-width: 800px; margin: 0 auto;">
+  <iframe title="" aria-label="Scatter Plot" id="datawrapper-chart-NWyfH" src="https://datawrapper.dwcdn.net/NWyfH/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="444" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
   </div>
+</TextBlock>
 
 
  
@@ -249,13 +247,12 @@
 </h2>
 
 <TextBlock>
-  A primary focus of the Office lies in supporting and encouraging youth. The Youth Empowerment Unit engaged over 27,452 young people across Queens County since 2022. The Unit’s programs are designed to cultivate young minds, strengthening their ability to think critically and communicate with mastery, thereby empowering them to navigate challenges and obstacles with confidence and maturity.  Community members may contact the Queens County DA’s Office to obtain more information about various educational programs offered by the Office, including: the Student Advisory Council; Legal Explorers Program; Hope and Leadership Academy; Summer Internship Program; and Court Tours Program.  The Office provides trainings and presentations to youth on topics including: workforce readiness skills for careers in law and law enforcement; positive police interaction; building healthy teenage relationships; internet safety; bullying; hate crimes; human trafficking; raising the age; bail reform; and immigration policy.
+  A primary focus of the Office lies in supporting and encouraging youth. The Youth Empowerment Unit engaged over 40,000 young people across Queens County since 2022. The Unit’s programs are designed to cultivate young minds, strengthening their ability to think critically and communicate with mastery, thereby empowering them to navigate challenges and obstacles with confidence and maturity.  Community members may contact the Queens County DA’s Office to obtain more information about various educational programs offered by the Office, including: the Student Advisory Council; Legal Explorers Program; Hope and Leadership Academy; Summer Internship Program; and Court Tours Program.  The Office provides trainings and presentations to youth on topics including: workforce readiness skills for careers in law and law enforcement; positive police interaction; building healthy teenage relationships; internet safety; bullying; hate crimes; human trafficking; raising the age; bail reform; and immigration policy.
 </TextBlock>
 
 <TextBlock>
   <div class="mb-10 mt-10">
-    <iframe title="Hope and Leadership Academy Is in Every School District in Queens" aria-label="Map" id="datawrapper-chart-IUU05" src="https://datawrapper.dwcdn.net/IUU05/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="774" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-    </script>
+    <iframe title="The Youth Empowerment Unit is Active in Every School District in Queens (Copy)" aria-label="Choropleth map" id="datawrapper-chart-e1LDk" src="https://datawrapper.dwcdn.net/e1LDk/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="799" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 </TextBlock>
 

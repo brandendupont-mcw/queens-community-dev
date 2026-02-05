@@ -64,7 +64,7 @@ import logo from '$lib/assets/images/20230801_185355.jpg';
                     <div class='mt-2'>
                       <dd class=" sm:text-sm  text-xs  text-white ">
                         <time >
-                          Report Published: 3/11/2025
+                          Report Updated: 2/5/2026
                         </time>
                       </dd>
                     </div>

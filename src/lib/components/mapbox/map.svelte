@@ -6,7 +6,7 @@
   import Marker from 'svelte-maplibre/Marker.svelte';
   import Popup from 'svelte-maplibre/Popup.svelte';
   import { Legend } from 'layerchart';
-  import MarkerData from './../mapbox/ce-data.csv'
+  import MarkerData from './../mapbox/ce_revised.csv'
   import type { FeatureCollection } from 'geojson';
   import ZoomRange from 'svelte-maplibre/ZoomRange.svelte';
   import { zoomTransition } from 'svelte-maplibre/expressions.js';
