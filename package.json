@@ -59,6 +59,7 @@
 		"svelte-maplibre": "0.9.14",
 		"tailwind-merge": "^2.3.0",
 		"tailwind-variants": "^0.2.1",
-		"topojson-client": "^3.1.0"
+		"topojson-client": "^3.1.0",
+		"layerchart-shadcn-svelte": "github:OWNER/REPO"
 	}
 }
