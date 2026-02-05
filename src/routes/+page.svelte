@@ -158,7 +158,7 @@
   
 
   <TextBlock>
-    Over the past four years, staff in the Office participated in over 4,000 public events - from community presentations on domestic violence at St. Mary & St. Antonios Coptic Orthodox Church in Ridgewood, to community board meetings and precinct council meetings across the borough, to community-based celebrations of Lunar New Year, Black History Month, Hispanic Heritage, Women’s History, Asian American Pacific Islander Heritage, Jewish American Heritage and more.
+    Over the past five years, staff in the Office participated in approximately 4,000 public events - from community presentations on domestic violence at St. Mary & St. Antonios Coptic Orthodox Church in Ridgewood, to community board meetings and precinct council meetings across the borough, to community-based celebrations of Lunar New Year, Black History Month, Hispanic Heritage, Women’s History, Asian American Pacific Islander Heritage, Jewish American Heritage and more.
   </TextBlock>
 
 
@@ -167,7 +167,7 @@
   </h2>
 
 <TextBlock>
-  Nearly every day of the year, the Queens County DA's Office is in the community, demonstrating its ongoing commitment to strengthening positive ties with citizens. Through this approach, the Office has successfully engaged the Queens community, fostering an environment where residents feel empowered to reach out to the Office for more than just assistance with law enforcement-related issues.
+  Nearly every day of the year, the Queens County DA's Office is in the community, demonstrating its ongoing commitment to strengthening positive ties across the borough. Through this approach, the Office has successfully engaged the Queens community, fostering an environment where residents feel empowered to reach out to the Office for more than just assistance with law enforcement-related issues.
 </TextBlock>
 
 </Block>
@@ -202,7 +202,7 @@
       The Queens County DA's Office Invests Millions in Youth Development and Crime Prevention
     </h2>
 <TextBlock>
-  A prosecutor’s Office has a role in the community that is broader than simply processing cases.  As an organization deeply rooted in its local community, the prosecutor’s office has an opportunity to use its human capital and resources to improve the long-term social, economic, and cultural well-being of the community - to act as a stabilizing force in civic life.  In addition to engaging the community through community events, the Queens County DA's Office also supports the community through Violence Prevention and Youth Development Grants.
+  A prosecutor’s office has a role in the community that is broader than simply processing cases.  As an organization deeply rooted in its local community, the prosecutor’s office has an opportunity to use its human capital and resources to improve the long-term social, economic, and cultural well-being of the community - to act as a stabilizing force in civic life.  In addition to engaging the community through community events, the Queens County DA's Office also supports the community through Violence Prevention and Youth Development Grants.
 </TextBlock>
 
 <TextBlock>
