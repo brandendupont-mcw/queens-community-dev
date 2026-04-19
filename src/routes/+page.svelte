@@ -1,97 +1,13 @@
 <script lang="ts">
-  import Link from './../lib/components/link.svelte'
-  import { scaleOrdinal } from 'd3-scale'; 
-  import { forceX, forceY, forceCollide,  forceManyBody, forceCenter  } from 'd3-force';
   import HeroImage from "../lib/components/heroImage.svelte"
   import Block from './../lib/components/block.svelte';
   import TextBlock from './../lib/components/text.svelte';
   import PopOverMobile from './../lib/components/popoverMobile.svelte';
   import Menu from './../lib/components/collapsiblemenu.svelte';
-  import CommunityGrants from './../lib/components/communityGrants.svelte'
-  import Map from './../lib/components/mapbox/map.svelte'
-  import Calendar2 from './../lib/components/charts/calendar.svelte';
+  import CommunityGrants from './../lib/components/communityGrants.svelte';
+  import Map from './../lib/components/mapbox/map.svelte';
   import mobilemap from './mobile-map.png';
-  import MediaQuery from "../lib/components/mediaquery.svelte";
-  import { ScrollArea } from "$lib/components/ui/scroll-area/index.js";
-  import calendarimage from "$lib/assets/images/calendar.png"
-
-  const categoryColor = scaleOrdinal([
-    '#ffbf00',
-    '#00aeff',
-  ]);
-
-
-    import youthImage from '$lib/assets/images/summer_internship.jpg';
-
-    let currentStep;
-    const steps = [    "<p>This chart depicts defendant's that have been served with trespass notices under the Queens Merchants Business Improvement Program. With</p>", "<p> We conducted an initial analysis of this program's effectiveness. To do so, we selected 174 individuals served with trespass notices who had been subject to the tresspass notice for at least up to one year. This gives us enough time to get a sense of arrest patterns under this program. </p>", 
-     "<p>We find that 87% of individuals have been served with trespass notices and are not arrested at that same location again. </p>",  "<p>Conversely, 13% are rearrested at the same location. Business's can now partner with law enforcement and the Queens DA's Office to address recidivist's who continue to steal from the same location. </p>"];
-
-  
-
-    function unclump() {
-    groupBy = false;
-}
-  function clump() {
-    groupBy = true;
-
-  }
-  
-    $: if (currentStep == 0) {
-      unclump();
-
-    } 
-    else if (currentStep == 1) {
-      unclump();
-    }
-    else if (currentStep == 2) {
-      clump();
-    } else if (currentStep == 3) {
-      clump();
-    }
-
-// this is code around
-
-
-
- 
-
-
-
-  let groupBy = false;
-  $: reheatSimulation({ groupBy });
-
-  let alpha = .8;
-
-  const xForce = forceX().strength(0.1);
-  const yForce = forceY().strength(0.1);
-  const chargeForce = forceManyBody().strength(1);
-  const collideForce = forceCollide();
-  const centerForce = forceCenter();
-
-  function reheatSimulation(args: Record<string, any> = {}) {
-    const _ = args;
-    alpha = 1.0;
-  }
-
-  let isSelected = 1
-
-
-  import  dots  from './rearrest_retail_theft.csv';
-
-
-
-  
-  import { Button } from "$lib/components/ui/button";
-  import  data  from './detention-eligible-by-county-detention-eligible-by-county (1).csv';
-
-
-
-
-
-
-
-  import Scroller from '$lib/components/scroller.svelte';
+  import youthImage from '$lib/assets/images/summer_internship.jpg';
 
  </script>
 

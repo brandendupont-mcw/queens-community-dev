@@ -1,17 +1,5 @@
 
-<script>
-    import whitelogo from "../svg/ccj-loyola-white.svg"
-    
-    const headerNavLinks = [
-        { href: 'https://loyolaccj.org/', title: 'Projects' },
-      { href: 'https://loyolaccj.org/blog', title: 'Publications' },
-      { href: 'https://loyolaccj.org/people', title: 'People' },
-      { href: 'https://loyolaccj.org/work-with-us', title: 'Work With Us' },
-      { href: 'https://loyolaccj.org/news', title: 'News' },
-      { href: 'https://loyolaccj.org/about', title: 'About' },
-    ]
-    
-</script>
+
 
 <div class="flex flex-col justify-between bg-black ">
     <div class=" ">

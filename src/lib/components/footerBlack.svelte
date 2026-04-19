@@ -1,17 +1,4 @@
 
-
-<script>
-        import whitelogo from "./ccj-loyola-white.svelte"
-    
-    const headerNavLinks = [
-      { href: 'https://loyolaccj.org/blog', title: 'Publications' },
-      { href: 'https://loyolaccj.org/people', title: 'People' },
-      { href: 'https://loyolaccj.org/work-with-us', title: 'Work With Us' },
-      { href: 'https://loyolaccj.org/news', title: 'News' },
-      { href: 'https://loyolaccj.org/about', title: 'About' },
-    ]
-    
-    </script>
     
     <footer class="bg-black mt-[100px]">
       <div class="max-w-screen-xl px-4 py-10 mx-auto sm:px-6 lg:px-8">
@@ -49,29 +36,7 @@
       <div class="sm:grid sm:grid-cols-2 flex flex-col grid-cols-1 grid-flow-col gap-4 justify-items-center">
       <div class="">
     
-        <div class="text-3xl font-bold  font-mono-bold">Team</div>
-        <div class="text-darkBase font-space text-md  sm:justify-end mt-6" >
-    
-    <ul class="space-y-2  font-mono">
-    <li>
-    <a href="https://loyolaccj.org/people" class="hover:border-b-2 hover:border-white cursor-pointer ">David Olson</a>
-    </li>
-    
-    <li>
-      <a href="https://loyolaccj.org/people" class="hover:border-b-2 hover:border-white cursor-pointer ">Don Stemen</a>
-    </li>
-    <li>
-      <a href="https://loyolaccj.org/people" class="hover:border-b-2 hover:border-white cursor-pointer ">Amanda Ward </a> 
-    </li>
-    <li>
-      <a href="https://loyolaccj.org/people" class="hover:border-b-2 hover:border-white cursor-pointer "> Patrick Griffin</a>
-    </li>
-    <li>
-    
-    <a href="https://loyolaccj.org/people" class="hover:border-b-2 hover:border-white cursor-pointer ">Branden DuPont</a>
-    </li>
-    </ul>
-    </div>
+        
       
     <div class="">
     
